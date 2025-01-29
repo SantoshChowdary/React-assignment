@@ -18,7 +18,7 @@ A React app to fetch, display, and manipulate lists. Users can create new lists 
 
 ## Demo
 
-[Live Demo] - ([https://your-username.github.io/list-creation-app](https://list-creation-nw.netlify.app/))
+[Live Demo] - ([https://list-creation-nw.netlify.app](https://list-creation-nw.netlify.app/))
 
 ## Installation
 
