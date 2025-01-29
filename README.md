@@ -24,5 +24,5 @@ A React app to fetch, display, and manipulate lists. Users can create new lists 
 
 1. Clone the repo:
    ```bash
-   git clone [https://github.com/your-username/list-creation-app.git](https://github.com/SantoshChowdary/React-assignment.git)
+   git clone https://github.com/SantoshChowdary/React-assignment.git
 
